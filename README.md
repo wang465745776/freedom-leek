@@ -1,0 +1,2 @@
+freedom-leek
+此项目用于Java虚拟机的学习，用于使用Java语言实现一个简易的Java虚拟机。
